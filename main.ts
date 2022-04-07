@@ -12,3 +12,5 @@ let hunter: Personagem = new Hunter("Angelo hunter");
 console.log("mage :>> ", mage);
 console.log("warrior :>> ", warrior);
 console.log("priest :>> ", priest);
+console.log("hunter :>> ", hunter);
+
